@@ -4,6 +4,6 @@ There are many things I want to say. The motivation of creating this repo began 
 
 But it's never too late before we still have the ability and chance to learn new things. We need to catch up.
 
-- k8s
 - docker
+- k8s
 - openstack
