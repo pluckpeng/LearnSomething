@@ -1,1 +1,5 @@
+*I can't guarrantee that all the info I conclude are right. It's just my personal understanding. If there is any problem or confusion, please contact with me.*
 
+## Introduction
+Simply understand the k8s as a platform for the cloud service management.
+Before we started, we have to know that there is a tech called docker. Docker evolved from the concept of virtualization. We can simply understand it as a light-weight VM.
